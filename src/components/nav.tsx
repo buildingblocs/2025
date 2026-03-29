@@ -67,7 +67,7 @@ export default function Nav() {
                     <div className="px-6 rounded-full mt-4 bg-slate-900/50 backdrop-filter backdrop-blur-lg ring-slate-800 flex items-center gap-x-2">
                         <a href="/">
                             <img
-                                src="/favicon.svg"
+                                src="/2025/favicon.svg"
                                 alt="BuildingBloCS logo"
                                 className="w-5 h-5 mr-1"
                             />
