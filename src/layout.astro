@@ -50,7 +50,7 @@ const { title, showTitle, desc } = Astro.props;
 					<h2>Join us!</h2>
 					<p class="mt-3">for the December Conference to learn coding, the best way.</p>
 					<div class="mt-6 flex items-center justify-center gap-x-6 lg:justify-start">
-						<a href="/events/december">
+						<a href={${import.meta.env.BASE_URL}/events/december}>
 							<Button>
 								Learn more
 								<ArrowRightIcon className="w-4 ml-1" />

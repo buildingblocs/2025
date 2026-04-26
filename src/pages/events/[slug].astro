@@ -58,7 +58,7 @@ let formattedTitle = title.replace(" ", "<br>");
           </a>
         )}
         {entry.data.directions &&
-          <a href={entry.data.directions} class="w-max">
+          <a href={`${import.meta.env.BASE_URL}${entry.data.directions}`}class="w-max">
             <Button className="flex gap-x-2">
                 Directions
                 <ArrowRightIcon />

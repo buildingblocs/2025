@@ -20,15 +20,15 @@ export default function Nav() {
     const mobileLinks = [
         {
             title: "Home",
-            href: "/",
+            href: `${import.meta.env.BASE_URL}`,
         },
         {
             title: "Our Partners",
-            href: "/partners",
+            href: `${import.meta.env.BASE_URL}/partners`,
         },
         {
             title: "Our Team",
-            href: "/team",
+            href: `${import.meta.env.BASE_URL}/team`,
         },
         // {
         //     title: "Join Us",
@@ -39,22 +39,22 @@ export default function Nav() {
     const events = [
         {
             title: "December Conference",
-            href: "/events/december",
+            href: `${import.meta.env.BASE_URL}/events/december`,
             desc: "The December Conference teaches you how to create your very own website",
         },
         {
             title: "June Conference",
-            href: "/events/june",
+            href: `${import.meta.env.BASE_URL}/events/june`,
             desc: "The June Conference is an AI-centered conference designed for everyone",
         },
         {
             title: "March Conference",
-            href: "/events/march",
+            href: `${import.meta.env.BASE_URL}/events/march`,
             desc: "The March Conference aims to introduce beginners to Python and Data Science",
         },
         {
             title: "Looking for older events?",
-            href: "/archive",
+            href: `${import.meta.env.BASE_URL}/archive`,
         },
     ];
 
@@ -65,7 +65,7 @@ export default function Nav() {
             <div className="justify-center h-16 sm:flex hidden sticky top-0 z-20 gap-x-4">
                 <div className="h-16 justify-end flex sticky top-0 z-20">
                     <div className="px-6 rounded-full mt-4 bg-slate-900/50 backdrop-filter backdrop-blur-lg ring-slate-800 flex items-center gap-x-2">
-                        <a href="/">
+                        <a href={import.meta.env.BASE_URL}>
                             <img
                                 src="/2025/favicon.svg"
                                 alt="BuildingBloCS logo"
@@ -73,13 +73,13 @@ export default function Nav() {
                             />
                         </a>
                         <a
-                            href="/partners"
+                            href={`${import.meta.env.BASE_URL}/partners`}
                             className="text-sm font-medium rounded-md px-2 transition hover:bg-white hover:text-black"
                         >
                             Our Partners
                         </a>
                         <a
-                            href="/team"
+                            href={`${import.meta.env.BASE_URL}/team`}
                             className="text-sm font-medium rounded-md px-2 transition hover:bg-white hover:text-black"
                         >
                             Our Team
@@ -143,9 +143,9 @@ export default function Nav() {
                     </a>
                 } */}
                 <div className="px-6 py-2 rounded-full mt-4 mr-4 bg-slate-900/50 backdrop-filter backdrop-blur-lg ring-1 ring-slate-800 flex items-center gap-x-4">
-                    <a href="/">
+                    <a href={import.meta.env.BASE_URL}>
                         <img
-                            src="/favicon.svg"
+                            src={`${import.meta.env.BASE_URL}/favicon.svg`}
                             alt="BuildingBloCS logo"
                             className="w-5 h-5"
                         />
