@@ -37,18 +37,18 @@ faq:
     - q: I still have questions! Who can I contact?
       a: The fastest way to reach us is to open a ticket on our Discord server, which you can join at <a href="https://go.buildingblocs.sg/discord">go.buildingblocs.sg/discord</a> <br> However, if you are unable to use Discord, you may also shoot us an email at <a href="mailto:hello@buildingblocs.sg">hello@buildingblocs.sg</a>
 prospectus:
-    - src: /events/december/1.png
-    - src: /events/december/2.png
-    - src: /events/december/3.png
-    - src: /events/december/4.png
-    - src: /events/december/5.png
-    - src: /events/december/6.png
-    - src: /events/december/7.png
-    - src: /events/december/8.png
-    - src: /events/december/9.png
-    - src: /events/december/10.png
-    - src: /events/december/11.png
-    - src: /events/december/12.png
+    - src: /2025/events/december/1.png
+    - src: /2025/events/december/2.png
+    - src: /2025/events/december/3.png
+    - src: /2025/events/december/4.png
+    - src: /2025/events/december/5.png
+    - src: /2025/events/december/6.png
+    - src: /2025/events/december/7.png
+    - src: /2025/events/december/8.png
+    - src: /2025/events/december/9.png
+    - src: /2025/events/december/10.png
+    - src: /2025/events/december/11.png
+    - src: /2025/events/december/12.png
 timeline:
     - title: Room 1
       events:

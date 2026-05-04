@@ -31,22 +31,22 @@ faq:
 - q: I still have questions! Who can I contact?
   a: The fastest way to reach us is to open a ticket on our Discord server, which you can join at <a href="https://go.buildingblocs.sg/discord">go.buildingblocs.sg/discord</a> <br> However, if you are unable to use Discord, you may also shoot us an email at <a href="mailto:hello@buildingblocs.sg">hello@buildingblocs.sg</a>
 prospectus:
-- src: /events/june/1.webp
-- src: /events/june/2.webp
-- src: /events/june/3.webp
-- src: /events/june/4.webp
-- src: /events/june/5.webp
-- src: /events/june/6.webp
-- src: /events/june/7.webp
-- src: /events/june/8.webp
-- src: /events/june/9.webp
-- src: /events/june/10.webp
-- src: /events/june/11.webp
-- src: /events/june/12.webp
-- src: /events/june/13.webp
-- src: /events/june/14.webp
-- src: /events/june/15.webp
-- src: /events/june/16.webp
+- src: /2025/events/june/1.webp
+- src: /2025/events/june/2.webp
+- src: /2025/events/june/3.webp
+- src: /2025/events/june/4.webp
+- src: /2025/events/june/5.webp
+- src: /2025/events/june/6.webp
+- src: /2025/events/june/7.webp
+- src: /2025/events/june/8.webp
+- src: /2025/events/june/9.webp
+- src: /2025/events/june/10.webp
+- src: /2025/events/june/11.webp
+- src: /2025/events/june/12.webp
+- src: /2025/events/june/13.webp
+- src: /2025/events/june/14.webp
+- src: /2025/events/june/15.webp
+- src: /2025/events/june/16.webp
 timeline:
 - title: Beginner
   events:

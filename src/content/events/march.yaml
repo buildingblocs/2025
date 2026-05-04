@@ -26,15 +26,15 @@ faq:
 - q: What if something pops up and I can't make it?
   a: Email us at hello@buildingblocs.sg or approach us on Discord in any appropriate channels and we will update your signup status accordingly.
 prospectus:  # to wait for media
-- src: /events/march/1.png
-- src: /events/march/2.png
-- src: /events/march/3.png
-- src: /events/march/4.png
-- src: /events/march/5.png
-- src: /events/march/6.png
-- src: /events/march/7.png
-- src: /events/march/8.png
-- src: /events/march/9.png
+- src: /2025/events/march/1.png
+- src: /2025/events/march/2.png
+- src: /2025/events/march/3.png
+- src: /2025/events/march/4.png
+- src: /2025/events/march/5.png
+- src: /2025/events/march/6.png
+- src: /2025/events/march/7.png
+- src: /2025/events/march/8.png
+- src: /2025/events/march/9.png
 timeline:
 - events:
   - date: 17 Mar
